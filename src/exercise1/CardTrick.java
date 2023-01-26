@@ -40,8 +40,11 @@ public class CardTrick {
      * replace this information with your own.
      * @author Paul Bonenfant Jan 2022
      */
-    private static void printInfo() {
     
+
+    private static void printInfo() {
+        //I'm done!
+        
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
@@ -61,7 +64,7 @@ public class CardTrick {
 
         System.out.println("Dylan Dobbs, Student at Sheridan College. ");
         
-    
+        
     }
 
 }
