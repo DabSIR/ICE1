@@ -82,7 +82,7 @@ public class CardTrick {
         System.out.println("My career ambitions:");
         System.out.println("-- Learn how to code, and make apps");
         System.out.println("-- Get a coop placement next semester.");
-	System.out.println("-- Get good grades throughout school.);	
+	System.out.println("-- Get good grades throughout school.");	
 
         System.out.println("My hobbies:");
         System.out.println("-- Investing");
